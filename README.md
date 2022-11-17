@@ -10,3 +10,4 @@
 psf = load('psf_101.TXT');
 psf = psf ./ sum(psf(:));
 ```
+- ori_faces [使用Fisher线性分类器实现人脸判别的二分类问题和多分类问题（Matlab）](https://blog.csdn.net/qq_36614557/article/details/80295277)
