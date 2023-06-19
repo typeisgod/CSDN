@@ -12,4 +12,4 @@ psf = psf ./ sum(psf(:));
 ```
 - ori_faces [使用Fisher线性分类器实现人脸判别的二分类问题和多分类问题（Matlab）](https://blog.csdn.net/qq_36614557/article/details/80295277)
 
--蔬菜价格 [使用Apriori实现蔬菜价格涨跌关联分析](https://blog.csdn.net/qq_36614557/article/details/80224008)
+- 蔬菜价格 [使用Apriori实现蔬菜价格涨跌关联分析](https://blog.csdn.net/qq_36614557/article/details/80224008)
